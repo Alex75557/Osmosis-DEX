@@ -1,2 +1,2 @@
-# Osmosis-DEX
+# Osmosis-DEX.
 DEX.
